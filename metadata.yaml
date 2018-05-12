@@ -1,0 +1,35 @@
+_repo: Exotics-and-Retrospectives_42735
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42735-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Koizumi, Yakumo
+    - Hearn, Patrick Lafcadio
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: ''
+gutenberg_issued: '2013-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan'
+- !lcc 'PS'
+tableOfContents: 'Exotics: Fuji-no-Yama. Insect-musicians. A question in the Zen texts.
+  The literature of the dead. Frogs. Of moon-desire -- Retrospectives: First impressions.
+  Beauty is memory. Sadness in beauty. Parfum de jeunesse. Azure psychology. A serenade.
+  A red sunset. Frisson. Vespertina cognitio. The eternal haunter.'
+title: Exotics and Retrospectives
+url: http://www.gutenberg.org/ebooks/42735
